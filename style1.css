@@ -6,3 +6,34 @@ h1 {
     
     text-align: center;
 }
+
+body {
+    
+}
+.container{width:900px; margin:0px auto;}
+.row{width:100%; margin;auto;}
+.col{width: 33%;float:left; margin:auto; background: #eeee;}
+.user-profile{width:100%;     margin: 30px 0px 102px 0px;}
+.user-profile h2{text-align:center;}
+.user-profile input{text-align:center; margin:5px 67px;}
+table {
+    font-family: arial, sans-serif;
+    width: 100%;
+	margin: 32px 0px;
+    overflow: hidden;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: center;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+h2{text-align:center;}
+.round{text-align:center; background:#000; color:#fff; border-radius:500px; height:180px; width:180px; margin:61px;}
+.round h2{padding-top:46px;}
+.h1{text-align:center;}
+
